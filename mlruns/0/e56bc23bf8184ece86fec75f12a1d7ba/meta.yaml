@@ -1,0 +1,15 @@
+artifact_uri: file:///W:/ProdLab/MLProd.v0/mlruns/0/e56bc23bf8184ece86fec75f12a1d7ba/artifacts
+end_time: 1663169824429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e56bc23bf8184ece86fec75f12a1d7ba
+run_uuid: e56bc23bf8184ece86fec75f12a1d7ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1663169820125
+status: 3
+tags: []
+user_id: Eloua
